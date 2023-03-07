@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Mykaelas/mykaelas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Howdy Y'all 👋
+### Howdy Y'all 👋
 
 - 🔭 I’m currently working on creating more unique projects that will showcase my coding abilites. 
 - 🌱 I’m currently learning how to code in Java, Python, and about AWS. I am always looking for new ways to make my code more efficient and condensed.
